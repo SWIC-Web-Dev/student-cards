@@ -1,4 +1,11 @@
-[
+[{
+    "name": "Hayley Smith",
+    "facts": [
+        "I live in O'fallon with my boyfriend, cat and two dogs.",
+        "I love cooking and tabletop RPGs.",
+        "I'm working on my CS degree."
+    ]
+},
   {
     "name": "Amanda Ellis",
     "facts": [
