@@ -1,11 +1,12 @@
-[{
+[
+  {
     "name": "Hayley Smith",
     "facts": [
-        "I live in O'fallon with my boyfriend, cat and two dogs.",
-        "I love cooking and tabletop RPGs.",
-        "I'm working on my CS degree."
+      "I live in O'fallon with my boyfriend, cat and two dogs.",
+      "I love cooking and tabletop RPGs.",
+      "I'm working on my CS degree."
     ]
-},
+  },
   {
     "name": "Amanda Ellis",
     "facts": [
@@ -16,19 +17,17 @@
       "I not so secretly love late 90s and early 2000s pop-punk and emo music"
     ]
   },
-  [
-    {
-      "name": "Zachary Clement",
-      "facts": [
-        "My favorite color is Purple",
-        "Held a world record in speedrunning Metroid Dread any% glitchless at one point",
-        "Really couldn't tell you my favorite game, but I do love gaming",
-        "Essentially my entire family is in the computer science field",
-        "Was in Model United Nations for 2 years",
-        "Favorite artist/band is Imagine Dragons, but I genuinely will listen to anything. Main Spotify playlist is 940 songs"
-      ]
-    }
-  ],
+  {
+    "name": "Zachary Clement",
+    "facts": [
+      "My favorite color is Purple",
+      "Held a world record in speedrunning Metroid Dread any% glitchless at one point",
+      "Really couldn't tell you my favorite game, but I do love gaming",
+      "Essentially my entire family is in the computer science field",
+      "Was in Model United Nations for 2 years",
+      "Favorite artist/band is Imagine Dragons, but I genuinely will listen to anything. Main Spotify playlist is 940 songs"
+    ]
+  },
   {
     "name": "Clayton Copus",
     "facts": [
